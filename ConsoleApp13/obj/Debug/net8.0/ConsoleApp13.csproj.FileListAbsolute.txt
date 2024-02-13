@@ -1,0 +1,14 @@
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.exe
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.deps.json
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.runtimeconfig.json
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.dll
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.pdb
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.dll
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\refint\ConsoleApp13.dll
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.pdb
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.genruntimeconfig.cache
+C:\Users\victo\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ref\ConsoleApp13.dll
